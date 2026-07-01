@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0035-search-insert-position) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |

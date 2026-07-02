@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0009-palindrome-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3945-digit-frequency-score](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3945-digit-frequency-score) |

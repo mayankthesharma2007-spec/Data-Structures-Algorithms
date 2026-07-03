@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0169-majority-element) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0169-majority-element) |
 ## Math
 |  |
@@ -56,4 +58,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

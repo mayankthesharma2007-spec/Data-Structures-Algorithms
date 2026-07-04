@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0048-rotate-image) |
 | [2769-find-the-maximum-achievable-number](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3945-digit-frequency-score](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3945-digit-frequency-score) |
@@ -80,4 +82,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->

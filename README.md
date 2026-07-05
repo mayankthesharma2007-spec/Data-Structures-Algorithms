@@ -14,6 +14,7 @@
 | [0073-set-matrix-zeroes](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0136-single-number) |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 |  |

@@ -57,6 +57,7 @@
 | [0009-palindrome-number](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0048-rotate-image) |
 | [1512-number-of-good-pairs](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1512-number-of-good-pairs) |
+| [2582-pass-the-pillow](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2582-pass-the-pillow) |
 | [2769-find-the-maximum-achievable-number](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3945-digit-frequency-score](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3945-digit-frequency-score) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2582-pass-the-pillow](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2582-pass-the-pillow) |
 ## Union-Find
 |  |
 | ------- |

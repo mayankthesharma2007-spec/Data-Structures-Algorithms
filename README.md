@@ -39,6 +39,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1512-number-of-good-pairs) |
 | [3668-restore-finishing-order](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3668-restore-finishing-order) |
+| [3941-password-strength](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
@@ -116,4 +117,8 @@
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3898-find-the-degree-of-each-vertex) |
+## String
+|  |
+| ------- |
+| [3941-password-strength](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3941-password-strength) |
 <!---LeetCode Topics End-->

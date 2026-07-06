@@ -22,6 +22,7 @@
 | [0169-majority-element](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [1288-remove-covered-intervals](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1288-remove-covered-intervals) |
 | [1512-number-of-good-pairs](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1512-number-of-good-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3285-find-indices-of-stable-mountains](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3285-find-indices-of-stable-mountains) |
@@ -77,6 +78,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0169-majority-element) |
+| [1288-remove-covered-intervals](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1288-remove-covered-intervals) |
 ## Counting
 |  |
 | ------- |

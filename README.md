@@ -61,6 +61,7 @@
 | [0048-rotate-image](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0342-power-of-four) |
 | [1512-number-of-good-pairs](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1512-number-of-good-pairs) |
 | [2582-pass-the-pillow](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2582-pass-the-pillow) |
 | [2769-find-the-maximum-achievable-number](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2769-find-the-maximum-achievable-number) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0136-single-number](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,4 +131,5 @@
 | ------- |
 | [0231-power-of-two](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->

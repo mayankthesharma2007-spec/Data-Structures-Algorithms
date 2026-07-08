@@ -2,9 +2,9 @@ class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
         int index=-1;
-        for(int i =nums.size()-2;i>=0;i--){
-            if(nums[i]<nums[i+1]){
-                index=i;
+        for(int i =nums.size()-1;i>=1;i--){
+            if(nums[i-1]<nums[i]){
+                index=i-1;
                 break;
             }
         }

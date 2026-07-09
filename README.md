@@ -20,6 +20,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0169-majority-element) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [1288-remove-covered-intervals](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1288-remove-covered-intervals) |
@@ -36,6 +37,7 @@
 | [0073-set-matrix-zeroes](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0169-majority-element) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1512-number-of-good-pairs) |
 | [3668-restore-finishing-order](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3668-restore-finishing-order) |

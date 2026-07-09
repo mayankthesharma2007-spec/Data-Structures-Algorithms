@@ -14,6 +14,7 @@
 | [0073-set-matrix-zeroes](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -88,11 +89,13 @@
 | ------- |
 | [0031-next-permutation](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0088-merge-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0169-majority-element) |
 | [1288-remove-covered-intervals](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |

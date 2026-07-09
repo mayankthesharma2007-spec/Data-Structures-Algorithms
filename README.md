@@ -62,6 +62,7 @@
 | [0009-palindrome-number](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0441-arranging-coins) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2582-pass-the-pillow](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2582-pass-the-pillow) |
 ## Union-Find
@@ -137,4 +139,8 @@
 | [0231-power-of-two](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0342-power-of-four) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

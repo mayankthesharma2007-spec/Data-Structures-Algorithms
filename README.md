@@ -77,6 +77,7 @@
 | [0326-power-of-three](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0441-arranging-coins) |
+| [1486-xor-operation-in-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1512-number-of-good-pairs) |
 | [2582-pass-the-pillow](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2582-pass-the-pillow) |
 | [2769-find-the-maximum-achievable-number](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2769-find-the-maximum-achievable-number) |
@@ -91,6 +92,7 @@
 | [0231-power-of-two](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0342-power-of-four) |
+| [1486-xor-operation-in-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1486-xor-operation-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |

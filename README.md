@@ -15,6 +15,7 @@
 | [0053-maximum-subarray](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -159,6 +161,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3898-find-the-degree-of-each-vertex) |

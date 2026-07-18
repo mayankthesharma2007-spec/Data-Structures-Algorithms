@@ -41,6 +41,7 @@
 | [1672-richest-customer-wealth](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1672-richest-customer-wealth) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2553-separate-the-digits-in-an-array) |
 | [3285-find-indices-of-stable-mountains](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3285-find-indices-of-stable-mountains) |
@@ -96,6 +97,7 @@
 | [0441-arranging-coins](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0441-arranging-coins) |
 | [1486-xor-operation-in-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1512-number-of-good-pairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2582-pass-the-pillow](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2582-pass-the-pillow) |
 | [2652-sum-multiples](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2769-find-the-maximum-achievable-number) |
@@ -201,6 +203,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
 |  |

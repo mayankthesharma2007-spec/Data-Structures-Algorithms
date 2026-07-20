@@ -51,6 +51,7 @@
 | [2221-find-triangular-sum-of-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2553-separate-the-digits-in-an-array) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3285-find-indices-of-stable-mountains](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3285-find-indices-of-stable-mountains) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -75,6 +76,7 @@
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-number-of-good-pairs](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1512-number-of-good-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3668-restore-finishing-order](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3760-maximum-substrings-with-distinct-start) |

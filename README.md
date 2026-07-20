@@ -70,6 +70,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1331-rank-transform-of-an-array) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-number-of-good-pairs](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1512-number-of-good-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3668-restore-finishing-order](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3668-restore-finishing-order) |
@@ -164,6 +165,7 @@
 | [0169-majority-element](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-number-of-good-pairs](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1512-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
@@ -214,6 +216,7 @@
 | [0709-to-lower-case](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1108-defanging-an-ip-address) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [3110-score-of-a-string](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3941-password-strength](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3941-password-strength) |

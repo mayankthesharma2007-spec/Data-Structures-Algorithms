@@ -49,6 +49,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2553-separate-the-digits-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3285-find-indices-of-stable-mountains](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3285-find-indices-of-stable-mountains) |
@@ -73,6 +74,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-number-of-good-pairs](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1512-number-of-good-pairs) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3668-restore-finishing-order](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -115,6 +117,7 @@
 | [1512-number-of-good-pairs](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2582-pass-the-pillow](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2582-pass-the-pillow) |
 | [2652-sum-multiples](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2769-find-the-maximum-achievable-number) |
@@ -169,6 +172,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-number-of-good-pairs](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1512-number-of-good-pairs) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Dynamic Programming
 |  |
 | ------- |

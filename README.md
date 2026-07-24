@@ -52,6 +52,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2553-separate-the-digits-in-an-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -123,6 +124,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2582-pass-the-pillow](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2582-pass-the-pillow) |
 | [2652-sum-multiples](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2769-find-the-maximum-achievable-number) |

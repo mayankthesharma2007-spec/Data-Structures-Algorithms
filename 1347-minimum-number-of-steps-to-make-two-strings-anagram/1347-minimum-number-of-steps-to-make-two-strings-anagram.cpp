@@ -1,13 +1,19 @@
 class Solution {
 public:
-    vector<int> twoSum(vector<int> &nums, int target) {
-        unordered_map <int , int> mpp;
-        for(int i = 0;i<nums.size();i++){
-            if(mpp.find(target-nums[i])!=mpp.end()){
-                return {i,mpp[target-nums[i]]};
-            }
-            mpp[nums[i]]=i;
+    int minSteps(string s, string t) {
+        unordered_map<char, int> mpp;
+        for(int i = 0;i<s.size();i++){
+            mpp[s[i]]++;
         }
-        return {};
+        int count=0;
+        for(int i=0;i<t.size();i++){
+            if(mpp.find(t[i])!=mpp.end() && mpp[t[i]]>0){
+                mpp[t[i]]--;
+            }
+            else{
+                count++;
+            }
+        }
+        return count;
     }
 };

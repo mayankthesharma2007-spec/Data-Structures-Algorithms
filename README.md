@@ -197,6 +197,7 @@
 | [2221-find-triangular-sum-of-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2553-separate-the-digits-in-an-array) |
 | [2582-pass-the-pillow](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2582-pass-the-pillow) |
+| [3271-hash-divided-string](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3271-hash-divided-string) |
 ## Union-Find
 |  |
 | ------- |
@@ -230,6 +231,7 @@
 | [1108-defanging-an-ip-address](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1108-defanging-an-ip-address) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [3110-score-of-a-string](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3110-score-of-a-string) |
+| [3271-hash-divided-string](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3271-hash-divided-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3941-password-strength](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3941-password-strength) |
 ## Recursion

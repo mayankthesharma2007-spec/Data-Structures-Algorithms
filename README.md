@@ -32,6 +32,7 @@
 | [0169-majority-element](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -153,6 +154,7 @@
 | [0031-next-permutation](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1877-minimize-maximum-pair-sum-in-array) |

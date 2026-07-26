@@ -3,13 +3,15 @@ public:
     vector<int> findThePrefixCommonArray(vector<int>& A, vector<int>& B) {
         unordered_map<int,int>mpp;
         vector<int> ans;
+        int count = 0;
         for(int i = 0;i<A.size();i++){
             mpp[A[i]]++;
-            int count = 0;
-            for(int j = 0;j<=i;j++){
-                if(mpp.find(B[j])!=mpp.end()){
-                    count++;
-                }
+            if(mpp[A[i]]==2){
+                count++;
+            }
+            mpp[B[i]]++;
+            if(mpp[B[i]]==2){
+                count++;
             }
             ans.push_back(count);
         }

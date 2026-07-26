@@ -65,6 +65,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3285-find-indices-of-stable-mountains) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3668-restore-finishing-order) |
 | [3895-count-digit-appearances](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3895-count-digit-appearances) |
@@ -143,6 +144,7 @@
 | [2582-pass-the-pillow](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2582-pass-the-pillow) |
 | [2652-sum-multiples](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2769-find-the-maximum-achievable-number) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -243,6 +245,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Graph Theory
 |  |
 | ------- |

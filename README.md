@@ -45,6 +45,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0912-sort-an-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0976-largest-perimeter-triangle) |
 | [1288-remove-covered-intervals](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1331-rank-transform-of-an-array) |
@@ -86,6 +87,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0771-jewels-and-stones) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1331-rank-transform-of-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-number-of-good-pairs](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1512-number-of-good-pairs) |

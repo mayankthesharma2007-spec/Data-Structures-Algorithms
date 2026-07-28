@@ -74,6 +74,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3668-restore-finishing-order) |
+| [3838-weighted-word-mapping](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
@@ -238,6 +239,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2553-separate-the-digits-in-an-array) |
 | [2582-pass-the-pillow](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2582-pass-the-pillow) |
 | [3271-hash-divided-string](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3271-hash-divided-string) |
+| [3838-weighted-word-mapping](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3838-weighted-word-mapping) |
 ## Union-Find
 |  |
 | ------- |
@@ -276,6 +278,7 @@
 | [3110-score-of-a-string](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3110-score-of-a-string) |
 | [3271-hash-divided-string](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3271-hash-divided-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3838-weighted-word-mapping](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3838-weighted-word-mapping) |
 | [3941-password-strength](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3941-password-strength) |
 ## Recursion
 |  |

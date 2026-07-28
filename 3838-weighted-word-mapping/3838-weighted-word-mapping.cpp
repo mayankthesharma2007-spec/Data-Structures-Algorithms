@@ -8,7 +8,7 @@ public:
                 sum+=weights[int(words[i][j])-int('a')];
             }
             sum = sum%26;
-            answer=answer+char(122-sum);
+            answer.push_back(char(122-sum));
         }
         return answer;
     }

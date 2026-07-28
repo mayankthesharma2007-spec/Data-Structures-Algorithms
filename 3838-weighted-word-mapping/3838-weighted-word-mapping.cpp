@@ -5,10 +5,10 @@ public:
         for(int i = 0;i<words.size();i++){
             int sum=0;
             for(int j = 0;j<words[i].size();j++){
-                sum+=weights[int(words[i][j])-int('a')];
+                sum+=weights[words[i][j]-int('a')];
             }
             sum = sum%26;
-            answer.push_back(char(122-sum));
+            answer.push_back('z'-sum);
         }
         return answer;
     }

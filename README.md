@@ -50,6 +50,7 @@
 | [0912-sort-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0976-largest-perimeter-triangle) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -131,6 +132,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Divide and Conquer
 |  |
 | ------- |

@@ -82,6 +82,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0169-majority-element) |
@@ -137,6 +138,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0258-add-digits) |
@@ -269,6 +271,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0771-jewels-and-stones) |

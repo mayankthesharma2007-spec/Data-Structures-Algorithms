@@ -33,6 +33,7 @@
 | [0162-find-peak-element](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
@@ -86,6 +87,7 @@
 | [0073-set-matrix-zeroes](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
@@ -196,6 +198,7 @@
 | [0075-sort-colors](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |

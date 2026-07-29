@@ -46,6 +46,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0976-largest-perimeter-triangle) |
@@ -129,6 +130,7 @@
 | [0493-reverse-pairs](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |

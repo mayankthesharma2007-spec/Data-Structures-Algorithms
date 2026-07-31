@@ -36,6 +36,7 @@
 | [0217-contains-duplicate](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -93,6 +94,7 @@
 | [0219-contains-duplicate-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
@@ -125,6 +127,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0441-arranging-coins) |
@@ -151,6 +154,7 @@
 | [0069-sqrtx](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0441-arranging-coins) |
@@ -178,6 +182,7 @@
 | ------- |
 | [0136-single-number](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0342-power-of-four) |
 | [1486-xor-operation-in-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1486-xor-operation-in-an-array) |
@@ -208,6 +213,7 @@
 | [0217-contains-duplicate](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |

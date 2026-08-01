@@ -1,28 +1,14 @@
 class Solution {
 public:
     int maxDistinct(string s) {
-        int count = 0;
-        int i = 0;
-        int j = 1;
-        sort(s.begin(),s.end());
-        if(s.size()==1){
-            return 1;
-        }
-        while(j<s.size()){
-            if(j==s.size()-1){
-                if(s[i]==s[j]){
-                    count++;
-                }
-                else{
-                    count+=2;
-                }
+        vector<int> check(26,0);
+        int ans =0;
+        for(char ch : s){
+            if(check[ch -'a'] == 0){
+                ans++;
             }
-            else if(s[i]!=s[j]){
-                count++;
-                i=j;
-            }
-            j++;
+            check[ch-'a']++;
         }
-        return count;
+        return ans;
     }
 };

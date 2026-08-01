@@ -97,6 +97,7 @@
 | [0268-missing-number](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0560-subarray-sum-equals-k) |
@@ -234,6 +235,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-number-of-good-pairs](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1512-number-of-good-pairs) |
@@ -293,6 +295,7 @@
 | [0013-roman-to-integer](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0771-jewels-and-stones) |

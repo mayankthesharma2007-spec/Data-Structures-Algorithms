@@ -55,6 +55,7 @@
 | [1288-remove-covered-intervals](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1672-richest-customer-wealth) |
 | [1833-maximum-ice-cream-bars](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1833-maximum-ice-cream-bars) |

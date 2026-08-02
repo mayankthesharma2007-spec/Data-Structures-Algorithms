@@ -57,6 +57,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1470-shuffle-the-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -142,6 +143,7 @@
 | [0875-koko-eating-bananas](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Divide and Conquer
 |  |
 | ------- |

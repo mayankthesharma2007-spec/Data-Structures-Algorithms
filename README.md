@@ -168,6 +168,7 @@
 | [0441-arranging-coins](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0976-largest-perimeter-triangle) |
+| [1323-maximum-69-number](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -335,6 +336,7 @@
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0976-largest-perimeter-triangle) |
+| [1323-maximum-69-number](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1323-maximum-69-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1877-minimize-maximum-pair-sum-in-array) |

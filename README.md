@@ -82,6 +82,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -117,6 +118,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3668-restore-finishing-order](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3941-password-strength](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3945-digit-frequency-score) |
@@ -239,6 +241,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |

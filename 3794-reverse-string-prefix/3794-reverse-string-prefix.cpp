@@ -1,9 +1,6 @@
 class Solution {
 public:
     string reversePrefix(string s, int k) {
-        if(k==1){
-            return s;
-        }
         int low = 0;
         int high = k-1;
         while(low<=high){

@@ -215,6 +215,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3794-reverse-string-prefix](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -319,6 +320,7 @@
 | [3110-score-of-a-string](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3110-score-of-a-string) |
 | [3271-hash-divided-string](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3271-hash-divided-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3838-weighted-word-mapping) |
 | [3941-password-strength](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3941-password-strength) |
 ## Recursion

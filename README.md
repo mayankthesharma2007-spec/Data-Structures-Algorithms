@@ -144,6 +144,7 @@
 | [0441-arranging-coins](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -173,6 +174,7 @@
 | [0367-valid-perfect-square](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0633-sum-of-square-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1486-xor-operation-in-an-array) |
@@ -218,6 +220,7 @@
 | [0283-move-zeroes](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0633-sum-of-square-numbers](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0633-sum-of-square-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2161-partition-array-according-to-given-pivot) |

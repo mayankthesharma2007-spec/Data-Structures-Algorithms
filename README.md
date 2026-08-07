@@ -47,6 +47,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -146,6 +147,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |

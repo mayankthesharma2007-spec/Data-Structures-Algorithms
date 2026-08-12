@@ -80,6 +80,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3285-find-indices-of-stable-mountains) |
@@ -121,6 +122,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3668-restore-finishing-order](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3731-find-missing-elements) |
@@ -371,6 +373,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0219-contains-duplicate-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Indexed Tree
 |  |
 | ------- |

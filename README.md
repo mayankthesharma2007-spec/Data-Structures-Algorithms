@@ -49,6 +49,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0832-flipping-an-image](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -213,6 +214,7 @@
 | [0268-missing-number](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0342-power-of-four) |
+| [0832-flipping-an-image](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -230,6 +232,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0633-sum-of-square-numbers) |
+| [0832-flipping-an-image](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0832-flipping-an-image) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -289,6 +292,7 @@
 | [0054-spiral-matrix](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0258-add-digits) |
+| [0832-flipping-an-image](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -309,6 +313,7 @@
 | [0059-spiral-matrix-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0074-search-a-2d-matrix) |
+| [0832-flipping-an-image](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1672-richest-customer-wealth) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Prefix Sum

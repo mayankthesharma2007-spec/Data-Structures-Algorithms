@@ -42,6 +42,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0475-heaters](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
@@ -150,6 +151,7 @@
 | [0367-valid-perfect-square](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0441-arranging-coins) |
+| [0475-heaters](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0633-sum-of-square-numbers) |
@@ -231,6 +233,7 @@
 | [0283-move-zeroes](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0475-heaters](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0633-sum-of-square-numbers) |
 | [0832-flipping-an-image](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0832-flipping-an-image) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -252,6 +255,7 @@
 | [0268-missing-number](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0475-heaters](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0475-heaters) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0976-largest-perimeter-triangle) |

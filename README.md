@@ -197,6 +197,7 @@
 | [1323-maximum-69-number](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1512-number-of-good-pairs) |
+| [1903-largest-odd-number-in-string](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2413-smallest-even-multiple) |
@@ -358,6 +359,7 @@
 | [1108-defanging-an-ip-address](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1108-defanging-an-ip-address) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1903-largest-odd-number-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3110-score-of-a-string) |
 | [3271-hash-divided-string](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3271-hash-divided-string) |
@@ -388,6 +390,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1903-largest-odd-number-in-string](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |

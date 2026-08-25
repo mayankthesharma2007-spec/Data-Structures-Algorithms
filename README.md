@@ -93,6 +93,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3668-restore-finishing-order) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3895-count-digit-appearances) |
@@ -131,6 +132,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3668-restore-finishing-order](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3668-restore-finishing-order) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3941-password-strength](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3941-password-strength) |

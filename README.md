@@ -362,6 +362,7 @@
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1903-largest-odd-number-in-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3110-score-of-a-string) |
 | [3271-hash-divided-string](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3271-hash-divided-string) |
@@ -400,6 +401,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Indexed Tree

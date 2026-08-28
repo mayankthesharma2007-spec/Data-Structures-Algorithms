@@ -460,4 +460,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->

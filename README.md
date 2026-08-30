@@ -77,6 +77,7 @@
 | [1929-concatenation-of-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -401,6 +402,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1903-largest-odd-number-in-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Sliding Window
 |  |
 | ------- |

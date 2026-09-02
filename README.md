@@ -210,6 +210,7 @@
 | [2221-find-triangular-sum-of-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2413-smallest-even-multiple) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2469-convert-the-temperature](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2582-pass-the-pillow](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2582-pass-the-pillow) |
 | [2652-sum-multiples](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/2652-sum-multiples) |

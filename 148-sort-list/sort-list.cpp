@@ -36,16 +36,7 @@ public:
                 temp=temp->next;
             }
         }
-        while(t1!=NULL){
-            temp->next = t1;
-            t1=t1->next;
-            temp=temp->next;
-        }
-        while(t2!=NULL){
-            temp->next = t2;
-            t2=t2->next;
-            temp=temp->next;
-        }
+        temp->next = (t1 != nullptr) ? t1 : t2;
         return newNode->next;
     }
     ListNode* sortList(ListNode* head) {

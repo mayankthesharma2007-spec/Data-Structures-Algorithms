@@ -12,23 +12,50 @@ class Solution {
 public:
     ListNode* partition(ListNode* head, int x) {
         ListNode* temp = head;
-        list <int> vs;
-        int count = 0;
+        ListNode* big = NULL;
+        ListNode* small = NULL;
+        ListNode* first_big = NULL;
+        ListNode* first_small = NULL;
         while(temp!=NULL){
-            if(temp->val>=x){
-                vs.push_back(temp->val);
-            }else{
-                vs.push_front(temp->val);
-                count++;
+            if(temp==head){
+                if(temp->val>=x){
+                    big = head;
+                    first_big = big;
+                }
+                else{
+                    small = head;
+                    first_small = small;
+                }
+            }
+            else{
+                if(temp->val>=x){
+                    if(big!=NULL){
+                        big->next = temp;
+                        big = big->next;
+                    }
+                    else{
+                        big = temp;
+                        first_big = big;
+                    }
+                }
+                else{
+                    if(small!=NULL){
+                        small->next = temp;
+                        small = small->next;
+                    }
+                    else{
+                        small = temp;
+                        first_small = small;
+                    }
+                }
             }
             temp=temp->next;
         }
-        std::reverse(vs.begin(), std::next(vs.begin(), count));
-        temp = head;
-        for(auto it = vs.begin();it!=vs.end();it++){
-            temp->val = *(it);
-            temp=temp->next;
+        if(big){
+            big->next = NULL;
         }
-        return head;
+        if(small){small->next = first_big;}
+        else{return first_big;}
+        return first_small;
     }
 };

@@ -370,6 +370,7 @@
 | [0709-to-lower-case](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1108-defanging-an-ip-address) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -484,4 +485,12 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/0142-linked-list-cycle-ii) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/mayankthesharma2007-spec/Data-Structures-Algorithms/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->

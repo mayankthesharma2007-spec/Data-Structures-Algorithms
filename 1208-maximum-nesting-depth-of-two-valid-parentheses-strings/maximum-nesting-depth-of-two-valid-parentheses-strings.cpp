@@ -7,7 +7,7 @@ public:
             if(s[i]==')'){
                 count--;
             }
-            vs.push_back(count%2);
+            vs.push_back(1-count%2);
             if(s[i]=='('){
                 count++;
             }

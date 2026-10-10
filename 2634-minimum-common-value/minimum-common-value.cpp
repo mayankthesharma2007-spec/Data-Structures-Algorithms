@@ -1,19 +1,19 @@
 class Solution {
 public:
     int getCommon(vector<int>& nums1, vector<int>& nums2) {
-        unordered_map<int,int> mpp;
-        int mini = INT_MAX;
-        for(int i=0;i<nums1.size();i++){
-            mpp[nums1[i]]++;
-        }
-        for(int i = 0;i<nums2.size();i++){
-            if(mpp.find(nums2[i])!=mpp.end() && mini>nums2[i]){
-                mini=nums2[i];
+        int i = 0;
+        int j = 0;
+        while(i<nums1.size() && j<nums2.size()){
+            if(nums1[i]==nums2[j]){
+                return nums1[i];
+            }
+            else if(nums1[i]>nums2[j]){
+                j++;
+            }
+            else{
+                i++;
             }
         }
-        if(mini==INT_MAX){
-            return -1;
-        }
-        return mini;
+        return -1;
     }
 };

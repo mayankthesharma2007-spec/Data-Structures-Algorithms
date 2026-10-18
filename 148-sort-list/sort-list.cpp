@@ -28,13 +28,12 @@ public:
             if(t1->val >= t2->val){
                 temp->next = t2;
                 t2=t2->next;
-                temp=temp->next;
             }
             else if(t1->val < t2->val){
                 temp->next = t1;
                 t1=t1->next;
-                temp=temp->next;
             }
+            temp = temp->next;
         }
         temp->next = (t1 != nullptr) ? t1 : t2;
         return newNode->next;

@@ -1,24 +1,30 @@
 class Solution {
 public:
     int candy(vector<int>& ratings) {
-        vector<int> left(ratings.size(),1);
-        for(int i = 1;i<ratings.size();i++){
-            if(ratings[i]>ratings[i-1]){
-                left[i]=left[i-1]+1;
+        int candy = ratings.size();
+        int i = 1;
+        while(i<ratings.size()){
+            if(ratings[i]==ratings[i-1]){
+                i++;
+                continue;
             }
+            int peak = 0;
+            while(ratings[i]>ratings[i-1]){
+                peak++;
+                candy+=peak;
+                i++;
+                if(i==ratings.size()){
+                    return candy;
+                }
+            }
+            int dip = 0;
+            while(i<ratings.size() && ratings[i]<ratings[i-1]){
+                dip++;
+                candy+=dip;
+                i++;
+            }
+            candy-=min(peak,dip);
         }
-        int candy = 1;
-        int answer = left.back();
-        for(int i = ratings.size()-2;i>=0;i--){
-            if(ratings[i]>ratings[i+1]){
-                candy++;
-            }
-            else{
-                candy = 1;
-            }
-            left[i]=max(left[i],candy);
-            answer+=left[i];
-        }
-        return answer;
+        return candy;
     }
 };
